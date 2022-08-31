@@ -1,1 +1,1 @@
-This is an intro to bash scripting
+These are shell basics
